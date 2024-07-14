@@ -1,2 +1,2 @@
 # No limits!
-[click here to open site](https://xaxay.github.io/8lim/)
+[click here to open site](https://8lim.com/)
